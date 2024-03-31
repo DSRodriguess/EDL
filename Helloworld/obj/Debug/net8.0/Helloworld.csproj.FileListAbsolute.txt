@@ -1,0 +1,14 @@
+C:\Users\David Rodrigues\Desktop\C#\helloworld\bin\Debug\net8.0\Helloworld.exe
+C:\Users\David Rodrigues\Desktop\C#\helloworld\bin\Debug\net8.0\Helloworld.deps.json
+C:\Users\David Rodrigues\Desktop\C#\helloworld\bin\Debug\net8.0\Helloworld.runtimeconfig.json
+C:\Users\David Rodrigues\Desktop\C#\helloworld\bin\Debug\net8.0\Helloworld.dll
+C:\Users\David Rodrigues\Desktop\C#\helloworld\bin\Debug\net8.0\Helloworld.pdb
+C:\Users\David Rodrigues\Desktop\C#\helloworld\obj\Debug\net8.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Rodrigues\Desktop\C#\helloworld\obj\Debug\net8.0\Helloworld.AssemblyInfoInputs.cache
+C:\Users\David Rodrigues\Desktop\C#\helloworld\obj\Debug\net8.0\Helloworld.AssemblyInfo.cs
+C:\Users\David Rodrigues\Desktop\C#\helloworld\obj\Debug\net8.0\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\David Rodrigues\Desktop\C#\helloworld\obj\Debug\net8.0\Helloworld.dll
+C:\Users\David Rodrigues\Desktop\C#\helloworld\obj\Debug\net8.0\refint\Helloworld.dll
+C:\Users\David Rodrigues\Desktop\C#\helloworld\obj\Debug\net8.0\Helloworld.pdb
+C:\Users\David Rodrigues\Desktop\C#\helloworld\obj\Debug\net8.0\Helloworld.genruntimeconfig.cache
+C:\Users\David Rodrigues\Desktop\C#\helloworld\obj\Debug\net8.0\ref\Helloworld.dll

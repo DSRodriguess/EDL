@@ -1,0 +1,14 @@
+C:\Users\David Rodrigues\Desktop\C#\palindromo\bin\Debug\net8.0\palindromo.exe
+C:\Users\David Rodrigues\Desktop\C#\palindromo\bin\Debug\net8.0\palindromo.deps.json
+C:\Users\David Rodrigues\Desktop\C#\palindromo\bin\Debug\net8.0\palindromo.runtimeconfig.json
+C:\Users\David Rodrigues\Desktop\C#\palindromo\bin\Debug\net8.0\palindromo.dll
+C:\Users\David Rodrigues\Desktop\C#\palindromo\bin\Debug\net8.0\palindromo.pdb
+C:\Users\David Rodrigues\Desktop\C#\palindromo\obj\Debug\net8.0\palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Rodrigues\Desktop\C#\palindromo\obj\Debug\net8.0\palindromo.AssemblyInfoInputs.cache
+C:\Users\David Rodrigues\Desktop\C#\palindromo\obj\Debug\net8.0\palindromo.AssemblyInfo.cs
+C:\Users\David Rodrigues\Desktop\C#\palindromo\obj\Debug\net8.0\palindromo.csproj.CoreCompileInputs.cache
+C:\Users\David Rodrigues\Desktop\C#\palindromo\obj\Debug\net8.0\palindromo.dll
+C:\Users\David Rodrigues\Desktop\C#\palindromo\obj\Debug\net8.0\refint\palindromo.dll
+C:\Users\David Rodrigues\Desktop\C#\palindromo\obj\Debug\net8.0\palindromo.pdb
+C:\Users\David Rodrigues\Desktop\C#\palindromo\obj\Debug\net8.0\palindromo.genruntimeconfig.cache
+C:\Users\David Rodrigues\Desktop\C#\palindromo\obj\Debug\net8.0\ref\palindromo.dll

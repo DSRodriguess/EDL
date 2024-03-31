@@ -1,0 +1,14 @@
+C:\Users\David Rodrigues\Desktop\C#\imparpar\bin\Debug\net8.0\imparpar.exe
+C:\Users\David Rodrigues\Desktop\C#\imparpar\bin\Debug\net8.0\imparpar.deps.json
+C:\Users\David Rodrigues\Desktop\C#\imparpar\bin\Debug\net8.0\imparpar.runtimeconfig.json
+C:\Users\David Rodrigues\Desktop\C#\imparpar\bin\Debug\net8.0\imparpar.dll
+C:\Users\David Rodrigues\Desktop\C#\imparpar\bin\Debug\net8.0\imparpar.pdb
+C:\Users\David Rodrigues\Desktop\C#\imparpar\obj\Debug\net8.0\imparpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Rodrigues\Desktop\C#\imparpar\obj\Debug\net8.0\imparpar.AssemblyInfoInputs.cache
+C:\Users\David Rodrigues\Desktop\C#\imparpar\obj\Debug\net8.0\imparpar.AssemblyInfo.cs
+C:\Users\David Rodrigues\Desktop\C#\imparpar\obj\Debug\net8.0\imparpar.csproj.CoreCompileInputs.cache
+C:\Users\David Rodrigues\Desktop\C#\imparpar\obj\Debug\net8.0\imparpar.dll
+C:\Users\David Rodrigues\Desktop\C#\imparpar\obj\Debug\net8.0\refint\imparpar.dll
+C:\Users\David Rodrigues\Desktop\C#\imparpar\obj\Debug\net8.0\imparpar.pdb
+C:\Users\David Rodrigues\Desktop\C#\imparpar\obj\Debug\net8.0\imparpar.genruntimeconfig.cache
+C:\Users\David Rodrigues\Desktop\C#\imparpar\obj\Debug\net8.0\ref\imparpar.dll
