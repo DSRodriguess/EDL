@@ -1,0 +1,15 @@
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\bin\Debug\net8.0\biblioteca.exe
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\bin\Debug\net8.0\biblioteca.deps.json
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\bin\Debug\net8.0\biblioteca.runtimeconfig.json
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\bin\Debug\net8.0\biblioteca.dll
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\bin\Debug\net8.0\biblioteca.pdb
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\obj\Debug\net8.0\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\obj\Debug\net8.0\biblioteca.AssemblyInfoInputs.cache
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\obj\Debug\net8.0\biblioteca.AssemblyInfo.cs
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\obj\Debug\net8.0\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\obj\Debug\net8.0\biblioteca.sourcelink.json
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\obj\Debug\net8.0\biblioteca.dll
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\obj\Debug\net8.0\refint\biblioteca.dll
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\obj\Debug\net8.0\biblioteca.pdb
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\obj\Debug\net8.0\biblioteca.genruntimeconfig.cache
+C:\Users\David Rodrigues\Desktop\C#\biblioteca\obj\Debug\net8.0\ref\biblioteca.dll
